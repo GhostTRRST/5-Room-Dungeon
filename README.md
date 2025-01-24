@@ -14,3 +14,5 @@
   The Five Room Dungeon
 
   After sleeping for 8+ hours, you woke up and noticed you weren't in your room.  You deciced to look around and noticed you was in a dome, underwater.  You see 4 doors and didn't think much about it.  Until you read a sign that says, the only way to escape is to go through those doors.  Everything behind those doors are obstacles and fights for you to face.  You have no choice but to do the obstacles and fight the bosses you see.
+
+  Wiki: https://github.com/GhostTRRST/5-Room-Dungeon/wiki
