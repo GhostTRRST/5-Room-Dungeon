@@ -7,7 +7,7 @@
          Version: 0.9 Beta
          Description: 5 room dungeon project for our PTECH program at the WACTC
 
-         ** THIS GAME IS MEANT TO BE PLAYED VIA GITHUB CODESPACE**
+         ** THIS GAME IS MEANT TO BE PLAYED VIA GITHUB CODESPACE OR VS CODE**
 
     
     
